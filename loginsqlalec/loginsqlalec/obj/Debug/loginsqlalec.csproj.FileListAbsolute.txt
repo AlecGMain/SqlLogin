@@ -1,0 +1,6 @@
+c:\users\gmrinstructor\documents\visual studio 2015\Projects\loginsqlalec\loginsqlalec\bin\Debug\loginsqlalec.exe.config
+c:\users\gmrinstructor\documents\visual studio 2015\Projects\loginsqlalec\loginsqlalec\bin\Debug\loginsqlalec.exe
+c:\users\gmrinstructor\documents\visual studio 2015\Projects\loginsqlalec\loginsqlalec\bin\Debug\loginsqlalec.pdb
+c:\users\gmrinstructor\documents\visual studio 2015\Projects\loginsqlalec\loginsqlalec\obj\Debug\loginsqlalec.csprojResolveAssemblyReference.cache
+c:\users\gmrinstructor\documents\visual studio 2015\Projects\loginsqlalec\loginsqlalec\obj\Debug\loginsqlalec.exe
+c:\users\gmrinstructor\documents\visual studio 2015\Projects\loginsqlalec\loginsqlalec\obj\Debug\loginsqlalec.pdb
